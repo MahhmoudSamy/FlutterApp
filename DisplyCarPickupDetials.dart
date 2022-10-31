@@ -97,7 +97,6 @@ class DisplyCarPickupDetialsState extends State<DisplyCarPickupDetials> {
 }
 
 
-
 Padding carinfo( double counter,car_image,car_type,car_tag,trip_time,price){  
  
  // final double x=100 + counter;  //56.5
@@ -220,7 +219,6 @@ Padding carinfo( double counter,car_image,car_type,car_tag,trip_time,price){
                  );
 
 }
-
 
 
 
