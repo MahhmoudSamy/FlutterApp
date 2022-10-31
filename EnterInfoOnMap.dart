@@ -113,5 +113,4 @@ class EnterInfoOnMapState extends State<EnterInfoOnMap> {
     );
   }
 
-
 }
