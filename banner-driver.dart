@@ -23,6 +23,7 @@ class BannerMsj extends StatelessWidget {
         ));
   }
 }
+
 class Destination extends StatelessWidget {
   const Destination({super.key});
 
